@@ -1,0 +1,8 @@
+{
+  "pushServerURL": "https://aerogearup-josmas.rhcloud.com/ag-push/",
+  "android": {
+    "senderID": "600333041276",
+    "variantID": "4828571f-9228-464e-af8c-2b3de510b520",
+    "variantSecret": "4578eeb9-6b4b-4225-8d7c-b7f0be2604b9"
+  }
+}
